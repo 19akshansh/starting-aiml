@@ -1,5 +1,7 @@
 # Hoii 🐣!!!
 
+> Please check https://github.com/19akshansh/starting-aiml/blob/7bdc3e91edd9b5b40b8c46754afe077f995f9a44/navigation.md for better Navigation
+
 I'm Akshansh, an AI/ML enthusiast, and this is a beginner-friendly documentation for anyone who wants to enter the amazing world of AI/ML!  
 
 This guide is made especially for people who:
