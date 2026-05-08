@@ -544,7 +544,7 @@ More resources will be added soon 👀
 
 ---
 
-# End 💙
+# End ♥
 
 If this guide helped you,
 please consider sharing it with others who want to enter AI/ML!
