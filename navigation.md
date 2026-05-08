@@ -22,13 +22,12 @@ _No prior coding knowledge required._
 
 # 📌 Navigation
 
-[💻 Start Coding](https://github.com/19akshansh/starting-aiml/tree/main#-how-to-start-coding) •
-[🤖 AI/ML Basics](https://github.com/19akshansh/starting-aiml/tree/main#-what-is-aiml) •
+[💻 Start Coding](https://github.com/19akshansh/starting-aiml/tree/main#how-to-start-coding-%E2%80%8D) •
+[🤖 AI/ML Basics](https://github.com/19akshansh/starting-aiml/tree/main#what-is-aiml-) •
 [🐍 Python](https://github.com/19akshansh/starting-aiml/tree/main#-python) •
-[📚 Libraries](https://github.com/19akshansh/starting-aiml/tree/main#-python-libraries-for-aiml) •
-[🧠 Machine Learning](https://github.com/19akshansh/starting-aiml/tree/main#-python-for-ai) •
-[🛠️ Resources](https://github.com/19akshansh/starting-aiml/tree/main#-more-resources-to-level-up) •
-[💙 Community](https://github.com/19akshansh/starting-aiml/tree/main#-end-)
+[📚 Libraries](https://github.com/19akshansh/starting-aiml/tree/main#python-libraries-for-aiml-) •
+[🛠️ Resources](https://github.com/19akshansh/starting-aiml/tree/main#more-resources-to-level-up-) •
+[💙 Community](https://github.com/19akshansh/starting-aiml/tree/main#end-)
 
 </div>
 
@@ -37,38 +36,38 @@ _No prior coding knowledge required._
 # 📚 Table of Contents
 
 ## 🚀 Getting Started
-- [💻 How to Start Coding](#-how-to-start-coding)
-- [🤖 What is AI/ML?](#-what-is-aiml)
-- [🧩 Quick Revision Time](#-quick-revision-time)
+- [💻 How to Start Coding](https://github.com/19akshansh/starting-aiml/tree/main#how-to-start-coding-%E2%80%8D)
+- [🤖 What is AI/ML?](https://github.com/19akshansh/starting-aiml/tree/main#what-is-aiml-)
+- [🧩 Quick Revision Time](https://github.com/19akshansh/starting-aiml/tree/main#-quick-revision-time)
 
 ---
 
 ## 🐍 Programming Fundamentals
-- [🐍 Python](#-python)
-- [👀 Why Python?](#-why-python)
-- [📚 Python Libraries for AI/ML](#-python-libraries-for-aiml)
+- [🐍 Python](https://github.com/19akshansh/starting-aiml/tree/main#-python)
+- [👀 Why Python?](https://github.com/19akshansh/starting-aiml/tree/main#why-python-)
+- [📚 Python Libraries for AI/ML](https://github.com/19akshansh/starting-aiml/tree/main#python-libraries-for-aiml-)
 
 ### 📦 Popular Libraries
-- [🔢 NumPy](#-numpy)
-- [🐼 Pandas](#-pandas)
-- [📊 Matplotlib](#-matplotlib)
-- [🤖 Scikit-learn](#-scikit-learn)
-- [🔥 TensorFlow](#-tensorflow)
-- [⚡ PyTorch](#-pytorch)
-- [👁️ OpenCV](#-opencv)
+- [🔢 NumPy](https://github.com/19akshansh/starting-aiml/tree/main#-numpy)
+- [🐼 Pandas](https://github.com/19akshansh/starting-aiml/tree/main#-pandas)
+- [📊 Matplotlib](https://github.com/19akshansh/starting-aiml/tree/main#-matplotlib)
+- [🤖 Scikit-learn](https://github.com/19akshansh/starting-aiml/tree/main#-scikit-learn)
+- [🔥 TensorFlow](https://github.com/19akshansh/starting-aiml/tree/main#-tensorflow)
+- [⚡ PyTorch](https://github.com/19akshansh/starting-aiml/tree/main#-pytorch)
+- [👁️ OpenCV](https://github.com/19akshansh/starting-aiml/tree/main#%EF%B8%8F-opencv)
 
 ---
 
 ## 🧠 Learning AI/ML
-- [🐍 Learning Python Basics](#-learning-python-basics)
-- [🤖 Python for AI](#-python-for-ai)
-- [🗺️ AI/ML Roadmap](#-a-simple-aiml-roadmap)
+- [🐍 Learning Python Basics](https://github.com/19akshansh/starting-aiml/tree/main#learning-python-basics-)
+- [🤖 Python for AI](https://github.com/19akshansh/starting-aiml/tree/main#python-for-ai-)
+- [🗺️ AI/ML Roadmap](https://github.com/19akshansh/starting-aiml/tree/main#a-simple-aiml-roadmap-%EF%B8%8F)
 
 ---
 
 ## 🌟 Extras
-- [🚀 More Resources](#-more-resources-to-level-up)
-- [💙 Community & End](#-end-)
+- [🚀 More Resources](https://github.com/19akshansh/starting-aiml/tree/main#more-resources-to-level-up-)
+- [💙 Community & End](https://github.com/19akshansh/starting-aiml/tree/main#end-)
 
 ---
 
